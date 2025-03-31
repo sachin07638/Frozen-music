@@ -3,7 +3,7 @@ addEventListener('fetch', event => {
 });
 
 // Add your bot token here.
-const BOT_TOKEN = "bot token here";
+const BOT_TOKEN = "7628911923:AAEmZ7c832oMHONI1WxOGWmi8fvSIpoLA6U";
 
 //Pro people: don't change this else your bot will be fucked.
 const API_BASE_URL = "https://eligible-hilda-frozenbotspvt-ae522a1a.koyeb.app";
@@ -615,8 +615,8 @@ async function handleRequest(request) {
       const buttons = {
         inline_keyboard: [
           [
-            { text: "➕ Add me", url: "https://t.me/vcmusiclubot?startgroup=true" },
-            { text: "💬 Support", url: "https://t.me/Frozensupport1" }
+            { text: "➕ Add me", url: "https://t.me/Spottfy_music_bot?startgroup=true" },
+            { text: "💬 Support", url: "https://t.me/MUSIC_BOT_UPDATE" }
           ],
           [
             { text: "❓ Help", callback_data: "show_help" }
@@ -703,8 +703,8 @@ async function handleRequest(request) {
       const buttons = {
         inline_keyboard: [
           [
-            { text: "➕ Add me", url: "https://t.me/vcmusiclubot?startgroup=true" },
-            { text: "💬 Support", url: "https://t.me/Frozensupport1" }
+            { text: "➕ Add me", url: "https://t.me/Spottfy_music_bot?startgroup=true" },
+            { text: "💬 Support", url: "https://t.me/MUSIC_BOT_UPDATE" }
           ],
           [
             { text: "❓ Help", callback_data: "show_help" }
